@@ -1,0 +1,7 @@
+part01/
+sample/
+sample_run*/
+half_run/
+half_run.log
+__pycache__/
+*.pyc
